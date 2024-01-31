@@ -1,5 +1,5 @@
-<template>
-  <h1>Movie {{ $route.params.id }} paramDetials</h1>
+<!-- <template>
+  <h1>Movie {{ $route.params.id }} param Detials</h1>
 
   <fwb-card
     img-alt="Desk"
@@ -20,7 +20,36 @@
       </p>
     </div>
   </fwb-card>
-</template>
+</template> -->
+
+<template>
+    <h1>Movie {{ $route.params.id }} param Detials</h1>
+    <div
+      class="max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700"
+    >
+      <a href="#">
+        <img class="rounded-t-lg w-full" :src="queryMovie.poster" :alt="queryMovie.title" />
+      </a>
+      <div class="p-5">
+        <router-link :to="{name:'MovieDetails', params : {id : queryMovie.id}}">
+          <h5
+            class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white"
+          >
+            {{ queryMovie.title }}
+          </h5>
+        </router-link>
+        <span class="m-2 p-2 bg-slate-300 text-slate-800 rounded-md">
+          {{ queryMovie.year }}
+        </span>
+        <span class="m-2 p-2 bg-slate-300 text-slate-800 rounded-md">
+          {{ queryMovie.runtime }}
+        </span>
+        <p class="mt-3 mb-3 font-normal text-gray-700 dark:text-gray-400">
+          {{ queryMovie.description }}
+        </p>
+      </div>
+    </div>
+  </template>
 
 <script setup>
 import { ref, onMounted } from "vue";

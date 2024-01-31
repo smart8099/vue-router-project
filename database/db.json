@@ -2,83 +2,43 @@
   "movies": [
     {
       "id": 1,
-      "title": "Dr. Strange",
-      "year": 2019,
-      "runtime": 130,
-      "poster": "https://static.wikia.nocookie.net/disney/images/d/dc/Doctor_Strange_-_Profile.png/revision/latest?cb=20220804200852",
-      "description": "Dr. Strange follows the story of a brilliant but arrogant neurosurgeon, Dr. Stephen Strange, who discovers the mystical arts after a career-ending car accident. As he trains in the mystic arts, he becomes a powerful sorcerer defending the world against dark forces."
+      "title": "The Lion King",
+      "year": "2020",
+      "runtime": "118 min",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMjIwMjE1Nzc4NV5BMl5BanBnXkFtZTgwNDg4OTA1NzM@._V1_SX300.jpg",
+      "description": "The Lion King is a visually stunning live-action/CGI remake of the beloved animated classic. Follow the journey of Simba, a young lion prince, as he discovers his identity and fulfills his destiny as the king of the Pride Lands."
     },
     {
       "id": 2,
-      "title": "Inception",
-      "year": 2010,
-      "runtime": 148,
-      "poster": "https://static.wikia.nocookie.net/disney/images/d/dc/Doctor_Strange_-_Profile.png/revision/latest?cb=20220804200852",
-      "description": "Inception is a mind-bending heist thriller directed by Christopher Nolan. Dom Cobb, a skilled thief, is an expert in the art of extraction, stealing secrets from deep within the subconscious during dreams. The film explores the complexities of reality and dreams within dreams."
+      "title": "Mowgli: Legend of the Jungle",
+      "year": "2018",
+      "runtime": "104 min",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMjMzODc2NzU5MV5BMl5BanBnXkFtZTgwNTMwMTE3NjM@._V1_SX300.jpg",
+      "description": "Mowgli: Legend of the Jungle is a darker and more realistic adaptation of Rudyard Kipling's classic stories. Join Mowgli, a human raised by wolves, as he navigates the dangers of the jungle and discovers his place in the animal kingdom."
     },
     {
       "id": 3,
-      "title": "The Shawshank Redemption",
-      "year": 1994,
-      "runtime": 142,
-      "poster": "https://static.wikia.nocookie.net/disney/images/d/dc/Doctor_Strange_-_Profile.png/revision/latest?cb=20220804200852",
-      "description": "The Shawshank Redemption is a classic tale of hope and redemption. Andy Dufresne, a banker, is sentenced to life in Shawshank State Penitentiary for a crime he didn't commit. The film depicts his journey to maintain his humanity and find hope in the darkest of places."
+      "title": "Doctor Strange",
+      "year": "2016",
+      "runtime": "115 min",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNjgwNzAzNjk1Nl5BMl5BanBnXkFtZTgwMzQ2NjI1OTE@._V1_SX300.jpg",
+      "description": "Doctor Strange follows the journey of Dr. Stephen Strange, a brilliant but arrogant neurosurgeon, who seeks mystical healing after a car accident. Enter the world of sorcery and dimensions as he transforms into the Sorcerer Supreme."
     },
     {
       "id": 4,
-      "title": "The Dark Knight",
-      "year": 2008,
-      "runtime": 152,
-      "poster": "https://static.wikia.nocookie.net/disney/images/d/dc/Doctor_Strange_-_Profile.png/revision/latest?cb=20220804200852",
-      "description": "The Dark Knight is the second installment in Christopher Nolan's Batman trilogy. The film explores the complex and chaotic relationship between Batman and the Joker. Heath Ledger's iconic portrayal of the Joker earned him a posthumous Academy Award."
+      "title": "John Wick",
+      "year": "2014",
+      "runtime": "101 min",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTU2NjA1ODgzMF5BMl5BanBnXkFtZTgwMTM2MTI4MjE@._V1_SX300.jpg",
+      "description": "John Wick is a relentless action film that follows the titular character, a retired hitman seeking vengeance for the death of his beloved dog. Brace yourself for intense gunfights and stylish action sequences."
     },
     {
       "id": 5,
-      "title": "The Matrix",
-      "year": 1999,
-      "runtime": 136,
-      "poster": "https://static.wikia.nocookie.net/disney/images/d/dc/Doctor_Strange_-_Profile.png/revision/latest?cb=20220804200852",
-      "description": "The Matrix is a groundbreaking sci-fi film that explores the concept of a simulated reality. Neo, a computer hacker, discovers the truth about his world and joins a group of rebels to free humanity from the control of intelligent machines."
-    },
-    {
-      "id": 6,
-      "title": "Pulp Fiction",
-      "year": 1994,
-      "runtime": 154,
-      "poster": "https://static.wikia.nocookie.net/disney/images/d/dc/Doctor_Strange_-_Profile.png/revision/latest?cb=20220804200852",
-      "description": "Pulp Fiction, directed by Quentin Tarantino, weaves interconnected stories of crime, redemption, and pop culture. The film's non-linear narrative, memorable characters, and iconic dialogue make it a cultural phenomenon."
-    },
-    {
-      "id": 7,
-      "title": "Forrest Gump",
-      "year": 1994,
-      "runtime": 142,
-      "poster": "https://static.wikia.nocookie.net/disney/images/d/dc/Doctor_Strange_-_Profile.png/revision/latest?cb=20220804200852",
-      "description": "Forrest Gump tells the extraordinary life story of a man with a low IQ who unwittingly influences several defining moments in American history. The film explores themes of love, destiny, and the unpredictability of life."
-    },
-    {
-      "id": 8,
-      "title": "The Godfather",
-      "year": 1972,
-      "runtime": 175,
-      "poster": "https://static.wikia.nocookie.net/disney/images/d/dc/Doctor_Strange_-_Profile.png/revision/latest?cb=20220804200852",
-      "description": "The Godfather, directed by Francis Ford Coppola, is a cinematic masterpiece that chronicles the Corleone crime family. The film explores power, family dynamics, and the consequences of choices in the world of organized crime."
-    },
-    {
-      "id": 9,
-      "title": "Interstellar",
-      "year": 2014,
-      "runtime": 169,
-      "poster": "https://static.wikia.nocookie.net/disney/images/d/dc/Doctor_Strange_-_Profile.png/revision/latest?cb=20220804200852",
-      "description": "Interstellar, directed by Christopher Nolan, is a visually stunning sci-fi epic. The film follows a group of astronauts who embark on a space mission to find a new habitable planet for humanity. It delves into themes of love, time dilation, and the survival of humanity."
-    },
-    {
-      "id": 10,
-      "title": "The Silence of the Lambs",
-      "year": 1991,
-      "runtime": 118,
-      "poster": "https://static.wikia.nocookie.net/disney/images/d/dc/Doctor_Strange_-_Profile.png/revision/latest?cb=20220804200852",
-      "description": "The Silence of the Lambs is a psychological thriller that follows FBI agent Clarice Starling as she seeks the help of Dr. Hannibal Lecter, a brilliant but insane psychiatrist, to catch a serial killer. The film is known for its suspenseful storytelling and memorable performances."
+      "title": "The Notebook",
+      "year": "2004",
+      "runtime": "123 min",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMjMzODc2NzU5MV5BMl5BanBnXkFtZTgwNTMwMTE3NjM@._V1_SX300.jpg",
+      "description": "The Notebook is a heartwarming romantic drama that spans decades. Witness the enduring love story of Noah and Allie as they navigate the challenges of social class, family expectations, and the passage of time."
     }
   ]
 }
