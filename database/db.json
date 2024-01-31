@@ -1,0 +1,84 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "Dr. Strange",
+      "year": 2019,
+      "runtime": 130,
+      "poster": "https://static.wikia.nocookie.net/disney/images/d/dc/Doctor_Strange_-_Profile.png/revision/latest?cb=20220804200852",
+      "description": "Dr. Strange follows the story of a brilliant but arrogant neurosurgeon, Dr. Stephen Strange, who discovers the mystical arts after a career-ending car accident. As he trains in the mystic arts, he becomes a powerful sorcerer defending the world against dark forces."
+    },
+    {
+      "id": 2,
+      "title": "Inception",
+      "year": 2010,
+      "runtime": 148,
+      "poster": "https://static.wikia.nocookie.net/disney/images/d/dc/Doctor_Strange_-_Profile.png/revision/latest?cb=20220804200852",
+      "description": "Inception is a mind-bending heist thriller directed by Christopher Nolan. Dom Cobb, a skilled thief, is an expert in the art of extraction, stealing secrets from deep within the subconscious during dreams. The film explores the complexities of reality and dreams within dreams."
+    },
+    {
+      "id": 3,
+      "title": "The Shawshank Redemption",
+      "year": 1994,
+      "runtime": 142,
+      "poster": "https://static.wikia.nocookie.net/disney/images/d/dc/Doctor_Strange_-_Profile.png/revision/latest?cb=20220804200852",
+      "description": "The Shawshank Redemption is a classic tale of hope and redemption. Andy Dufresne, a banker, is sentenced to life in Shawshank State Penitentiary for a crime he didn't commit. The film depicts his journey to maintain his humanity and find hope in the darkest of places."
+    },
+    {
+      "id": 4,
+      "title": "The Dark Knight",
+      "year": 2008,
+      "runtime": 152,
+      "poster": "https://static.wikia.nocookie.net/disney/images/d/dc/Doctor_Strange_-_Profile.png/revision/latest?cb=20220804200852",
+      "description": "The Dark Knight is the second installment in Christopher Nolan's Batman trilogy. The film explores the complex and chaotic relationship between Batman and the Joker. Heath Ledger's iconic portrayal of the Joker earned him a posthumous Academy Award."
+    },
+    {
+      "id": 5,
+      "title": "The Matrix",
+      "year": 1999,
+      "runtime": 136,
+      "poster": "https://static.wikia.nocookie.net/disney/images/d/dc/Doctor_Strange_-_Profile.png/revision/latest?cb=20220804200852",
+      "description": "The Matrix is a groundbreaking sci-fi film that explores the concept of a simulated reality. Neo, a computer hacker, discovers the truth about his world and joins a group of rebels to free humanity from the control of intelligent machines."
+    },
+    {
+      "id": 6,
+      "title": "Pulp Fiction",
+      "year": 1994,
+      "runtime": 154,
+      "poster": "https://static.wikia.nocookie.net/disney/images/d/dc/Doctor_Strange_-_Profile.png/revision/latest?cb=20220804200852",
+      "description": "Pulp Fiction, directed by Quentin Tarantino, weaves interconnected stories of crime, redemption, and pop culture. The film's non-linear narrative, memorable characters, and iconic dialogue make it a cultural phenomenon."
+    },
+    {
+      "id": 7,
+      "title": "Forrest Gump",
+      "year": 1994,
+      "runtime": 142,
+      "poster": "https://static.wikia.nocookie.net/disney/images/d/dc/Doctor_Strange_-_Profile.png/revision/latest?cb=20220804200852",
+      "description": "Forrest Gump tells the extraordinary life story of a man with a low IQ who unwittingly influences several defining moments in American history. The film explores themes of love, destiny, and the unpredictability of life."
+    },
+    {
+      "id": 8,
+      "title": "The Godfather",
+      "year": 1972,
+      "runtime": 175,
+      "poster": "https://static.wikia.nocookie.net/disney/images/d/dc/Doctor_Strange_-_Profile.png/revision/latest?cb=20220804200852",
+      "description": "The Godfather, directed by Francis Ford Coppola, is a cinematic masterpiece that chronicles the Corleone crime family. The film explores power, family dynamics, and the consequences of choices in the world of organized crime."
+    },
+    {
+      "id": 9,
+      "title": "Interstellar",
+      "year": 2014,
+      "runtime": 169,
+      "poster": "https://static.wikia.nocookie.net/disney/images/d/dc/Doctor_Strange_-_Profile.png/revision/latest?cb=20220804200852",
+      "description": "Interstellar, directed by Christopher Nolan, is a visually stunning sci-fi epic. The film follows a group of astronauts who embark on a space mission to find a new habitable planet for humanity. It delves into themes of love, time dilation, and the survival of humanity."
+    },
+    {
+      "id": 10,
+      "title": "The Silence of the Lambs",
+      "year": 1991,
+      "runtime": 118,
+      "poster": "https://static.wikia.nocookie.net/disney/images/d/dc/Doctor_Strange_-_Profile.png/revision/latest?cb=20220804200852",
+      "description": "The Silence of the Lambs is a psychological thriller that follows FBI agent Clarice Starling as she seeks the help of Dr. Hannibal Lecter, a brilliant but insane psychiatrist, to catch a serial killer. The film is known for its suspenseful storytelling and memorable performances."
+    }
+  ]
+}
