@@ -1,7 +1,7 @@
 {
   "movies": [
     {
-      "id": 1,
+      "id": "1",
       "title": "The Lion King",
       "year": "2020",
       "runtime": "118 min",
@@ -9,7 +9,7 @@
       "description": "The Lion King is a visually stunning live-action/CGI remake of the beloved animated classic. Follow the journey of Simba, a young lion prince, as he discovers his identity and fulfills his destiny as the king of the Pride Lands."
     },
     {
-      "id": 2,
+      "id": "2",
       "title": "Mowgli: Legend of the Jungle",
       "year": "2018",
       "runtime": "104 min",
@@ -17,7 +17,7 @@
       "description": "Mowgli: Legend of the Jungle is a darker and more realistic adaptation of Rudyard Kipling's classic stories. Join Mowgli, a human raised by wolves, as he navigates the dangers of the jungle and discovers his place in the animal kingdom."
     },
     {
-      "id": 3,
+      "id": "3",
       "title": "Doctor Strange",
       "year": "2016",
       "runtime": "115 min",
@@ -25,7 +25,7 @@
       "description": "Doctor Strange follows the journey of Dr. Stephen Strange, a brilliant but arrogant neurosurgeon, who seeks mystical healing after a car accident. Enter the world of sorcery and dimensions as he transforms into the Sorcerer Supreme."
     },
     {
-      "id": 4,
+      "id": "4",
       "title": "John Wick",
       "year": "2014",
       "runtime": "101 min",
@@ -33,7 +33,7 @@
       "description": "John Wick is a relentless action film that follows the titular character, a retired hitman seeking vengeance for the death of his beloved dog. Brace yourself for intense gunfights and stylish action sequences."
     },
     {
-      "id": 5,
+      "id": "5",
       "title": "The Notebook",
       "year": "2004",
       "runtime": "123 min",
