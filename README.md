@@ -30,6 +30,7 @@ To get a local copy up and running follow these simple example steps.
     npm run dev
 
 ### Set Up Backend API
+[Follow instructions to set up] (https://github.com/smart8099/movie-backend-api)
 
 
 ## Authors
